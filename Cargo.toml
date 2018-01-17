@@ -1,0 +1,10 @@
+[package]
+name = "conversione-binaria-decimale-rust"
+version = "1.0.0"
+authors = ["carmine"]
+
+[lib]
+name = "conversione"
+crate-type = ["dylib"]
+
+[dependencies]
