@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["bin","Questa funzione controlla se il numero è binario."],["pow","Questa funzione eleva a ad un esponente"],["tobin","Questa funzione converte un numero da decimale in binario."],["todec","Questa funzione converte un numero da binario in decimale applicando i controlli necessari per assicurarsi che il numero sia binario."]]});
